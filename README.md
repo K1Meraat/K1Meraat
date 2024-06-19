@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Meraat</h1>
-<h3 align="center">I am a computer science student in Bachelor. I am passionate about Embedded Systems, Data Engineering and AI.</h3>
+<h3 align="center">I'm a Bachelor's student in computer science. I am passionate about Embedded Systems, Data Engineering and AI.</h3>
 
 - 🔭 I’m currently working on [my Bachelor thesis](Diffusion Models)
 
