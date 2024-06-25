@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **K1Meraat@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/K1Meraat/MyCV](https://github.com/K1Meraat/MyCV)
+- 📄 Know about my experiences [https://github.com/K1Meraat/MyCV](https://github.com/K1Meraat/CV(public-version))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
